@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/adem">
+        <file>images.png</file>
+        <file>download.png</file>
+    </qresource>
+</RCC>
